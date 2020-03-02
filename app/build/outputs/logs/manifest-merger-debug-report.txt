@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/cbc198eccf0055edc691260b4d9cafa8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kumail7/.gradle/caches/transforms-2/files-2.1/a3f36bb29fe3648df953768a5c4f182d/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/66f244ccd25d261ad326a26ba272aba4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/878021e7f46e897d2f39359a3f04d216/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/3bf9fd15ca413c9b166af90269534de0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/721681c308f8d3c92225e4db692f39cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/ba416a9bfdcdc7ebe093cf6be417fcf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/fd3af6d7d9664ad618946d14ec71bd86/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/4733eaa735df61d57e7b05a3d045d013/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/fc162d979cdd9aaeaf486a325cc1e829/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/43881943950fd0e030d4bfb61e42824f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/83eaa3a384b5ac428bf59262ac048cb5/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/f829a3e9564f4324edb8d8f0d323c446/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/4f9e51ae35973ddf487b5139f93d388e/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/f3ef51cb94e24b8c8e653e9f028d291d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/15ef2882746f2a96b643befa7a2815ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/ea106a91856c99fc5d04077fe2271e3b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/8b3f5869c0900d8cfb246019ea08485a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/8db6b6be6f250d91ae67526dac624ca3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/9fccf1a257dfb94400045889a06373da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/2b9c1eb68982d0938d4cc452b3d57de4/AndroidManifest.xml:17:1-22:12
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kumail7/.gradle/caches/transforms-2/files-2.1/a3f36bb29fe3648df953768a5c4f182d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kumail7/.gradle/caches/transforms-2/files-2.1/a3f36bb29fe3648df953768a5c4f182d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/83eaa3a384b5ac428bf59262ac048cb5/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/83eaa3a384b5ac428bf59262ac048cb5/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/4f9e51ae35973ddf487b5139f93d388e/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/4f9e51ae35973ddf487b5139f93d388e/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/83eaa3a384b5ac428bf59262ac048cb5/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.notifications.MainActivity
+ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/cbc198eccf0055edc691260b4d9cafa8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/cbc198eccf0055edc691260b4d9cafa8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kumail7/.gradle/caches/transforms-2/files-2.1/a3f36bb29fe3648df953768a5c4f182d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/kumail7/.gradle/caches/transforms-2/files-2.1/a3f36bb29fe3648df953768a5c4f182d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/66f244ccd25d261ad326a26ba272aba4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/66f244ccd25d261ad326a26ba272aba4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/878021e7f46e897d2f39359a3f04d216/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/878021e7f46e897d2f39359a3f04d216/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/3bf9fd15ca413c9b166af90269534de0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/3bf9fd15ca413c9b166af90269534de0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/721681c308f8d3c92225e4db692f39cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/721681c308f8d3c92225e4db692f39cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/ba416a9bfdcdc7ebe093cf6be417fcf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/ba416a9bfdcdc7ebe093cf6be417fcf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/fd3af6d7d9664ad618946d14ec71bd86/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/fd3af6d7d9664ad618946d14ec71bd86/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/4733eaa735df61d57e7b05a3d045d013/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/4733eaa735df61d57e7b05a3d045d013/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/fc162d979cdd9aaeaf486a325cc1e829/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/fc162d979cdd9aaeaf486a325cc1e829/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/43881943950fd0e030d4bfb61e42824f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/43881943950fd0e030d4bfb61e42824f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/83eaa3a384b5ac428bf59262ac048cb5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/83eaa3a384b5ac428bf59262ac048cb5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/f829a3e9564f4324edb8d8f0d323c446/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/f829a3e9564f4324edb8d8f0d323c446/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/4f9e51ae35973ddf487b5139f93d388e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/4f9e51ae35973ddf487b5139f93d388e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/f3ef51cb94e24b8c8e653e9f028d291d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/f3ef51cb94e24b8c8e653e9f028d291d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/15ef2882746f2a96b643befa7a2815ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/15ef2882746f2a96b643befa7a2815ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/ea106a91856c99fc5d04077fe2271e3b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/ea106a91856c99fc5d04077fe2271e3b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/8b3f5869c0900d8cfb246019ea08485a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/8b3f5869c0900d8cfb246019ea08485a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/8db6b6be6f250d91ae67526dac624ca3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/8db6b6be6f250d91ae67526dac624ca3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/9fccf1a257dfb94400045889a06373da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/9fccf1a257dfb94400045889a06373da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/2b9c1eb68982d0938d4cc452b3d57de4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/kumail7/.gradle/caches/transforms-2/files-2.1/2b9c1eb68982d0938d4cc452b3d57de4/AndroidManifest.xml:20:5-44
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+		ADDED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/Kumail7/Parhai/7th_Semester/FYP-I/Projects/Notifications/app/src/main/AndroidManifest.xml
